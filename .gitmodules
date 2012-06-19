@@ -1,0 +1,6 @@
+[submodule "tablesorter"]
+	path = tablesorter
+	url = git://github.com/Mottie/tablesorter.git
+[submodule "jquery"]
+	path = jquery
+	url = git://github.com/jquery/jquery.git
